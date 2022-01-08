@@ -4,7 +4,7 @@
 ![POSTadd](/screens/postadd.jpg)
 ### Получение списка загруженных файлов
 ![GETall](/screens/getall.jpg)
-### Загрузка файла по имени
+### Скачивание файла по имени
 ![getdownload](/screens/getdownload.jpg)
 ### Удаление файла по имени
 ![delete](/screens/delete.jpg)
