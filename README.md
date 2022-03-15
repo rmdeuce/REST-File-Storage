@@ -1,5 +1,4 @@
 # REST File Storage
-## Лабораторная №3
 ### Загрузка файла
 ![POSTadd](/screens/postadd.jpg)
 ### Получение списка загруженных файлов
